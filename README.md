@@ -1,5 +1,5 @@
-## 🏨 Hotel Room Reservation System 🛏️
-# Day 1
+# 🏨 Hotel Room Reservation System 🛏️
+## Day 1
 
 *Created during the challenge of 1 project/day documented on TikTok 📅*
 
