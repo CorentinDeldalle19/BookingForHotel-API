@@ -1,6 +1,7 @@
-# 🏨 Hotel Room Reservation System 🛏️
+## 🏨 Hotel Room Reservation System 🛏️
+# Day 1
 
-Created during the challenge of 1 project/day documented on TikTok 📅
+*Created during the challenge of 1 project/day documented on TikTok 📅*
 
 ## What was achieved:
 - 🚀 Full API in NodeJS for booking a room, updating user information...
